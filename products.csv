@@ -1,0 +1,26 @@
+ProductID,ProductName,Category,Price
+1,Parle-G,Groceries,10.0
+2,Tata Salt,Groceries,20.0
+3,Amul Butter,Groceries,50.0
+4,Maggi Noodles,Groceries,15.0
+5,Surf Excel,Groceries,120.0
+6,Samsung Galaxy M14,Electronics,13999.0
+7,Realme Narzo 60X,Electronics,12999.0
+8,Sony WH-1000XM4,Electronics,19990.0
+9,Lenovo IdeaPad,Electronics,42999.0
+10,HP Ink Tank Printer,Electronics,13499.0
+11,Peter England Shirt,Clothing,1299.0
+12,Levi's Jeans,Clothing,2499.0
+13,Raymond Blazer,Clothing,4599.0
+14,Allen Solly T-shirt,Clothing,799.0
+15,Zara Dress,Clothing,1999.0
+16,Tinkle Comics,Books,60.0
+17,The Alchemist,Books,399.0
+18,Rich Dad Poor Dad,Books,350.0
+19,Wings of Fire,Books,250.0
+20,Bhagavad Gita,Books,199.0
+21,Lego Classic Bricks,Toys,1799.0
+22,Hot Wheels Car,Toys,120.0
+23,Nerf Gun Elite,Toys,2499.0
+24,Barbie Doll,Toys,899.0
+25,UNO Cards,Toys,149.0
